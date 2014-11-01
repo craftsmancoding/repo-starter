@@ -1,0 +1,35 @@
+{
+    "name": "vendor/yourpackage",
+    "description": "This is a starter repository that uses Repoman conventions for easier MODX Revo development. Update to taste.",
+    "type": "modx-package",
+    "keywords": ["modx","repoman"],
+    "homepage": "https://github.com/vendor/yourpackage",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Your Name Here",
+            "email": "you@email.com",
+            "homepage" : "https://craftsmancoding.com/"
+        }        
+    ],
+    "support": {
+        "email": "donotreply@yoursite.com",
+        "issues": "https://github.com/vendor/yourpackage/issues",
+        "forum": "http://forums.modx.com/",
+        "wiki": "https://github.com/vendor/yourpackage/wiki",
+        "source": "https://github.com/vendor/yourpackage.git"
+    },    
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap":["model/yourpackage/"]
+    },
+    "extra": {
+        "package_name": "Your Package Name here",
+        "namespace": "yourpackage",
+        "version": "1.0.0",
+        "release": "pl",
+        "category":"Your Package"
+    }
+}

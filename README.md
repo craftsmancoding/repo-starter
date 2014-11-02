@@ -10,7 +10,7 @@ Installation
 
 To download this package as the basis for your Repoman project, use composer create-project:
 
-    composer create-project craftsmancoding/repo-starter --prefer-dist
+    composer create-project craftsmancoding/repo-starter --stability=dev
         
 This should pull down the package to your local computer where you may begin altering it.
 
@@ -50,4 +50,4 @@ or
 
 Once you have the composer.phar file, modify the create-project command to reference it, e.g.:
 
-    php composer.phar create-project craftsmancoding/repo-starter --prefer-dist
+    php composer.phar create-project craftsmancoding/repo-starter --stability=dev

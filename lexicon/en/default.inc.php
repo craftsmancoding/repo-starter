@@ -1,16 +1,16 @@
 <?php
 /**
- * en default topic lexicon file for Query extra
+ * en default topic lexicon file for yourpackage Extra
  *
- * Copyright 2013 by Everett Griffiths <everett@craftsmancoding.com>
- * Created on 05-12-2013
+ * Copyright 2014 by You <you@mail.com>
+ * Created on 10-31-2014
  *
- * Query is free software; you can redistribute it and/or modify it under the
+ * yourpackage is free software; you can redistribute it and/or modify it under the
  * terms of the GNU General Public License as published by the Free Software
  * Foundation; either version 2 of the License, or (at your option) any later
  * version.
  *
- * Query is distributed in the hope that it will be useful, but WITHOUT ANY
+ * yourpackage is distributed in the hope that it will be useful, but WITHOUT ANY
  * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
  * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
  *
@@ -18,7 +18,7 @@
  * Query; if not, write to the Free Software Foundation, Inc., 59 Temple
  * Place, Suite 330, Boston, MA 02111-1307 USA
  *
- * @package query
+ * @package yourpackage
  */
 
 /**
@@ -31,7 +31,8 @@
  * @var $modx modX
  * @var $scriptProperties array
  *
- * @package query
+ * @package yourpackage
  **/
 
-$_lang['raw_query'] = 'Raw SQL query';
+$_lang['yourpackage'] = 'Your Great Package';
+$_lang['yourpackage_desc'] = 'Menu Subtitle for CMP';

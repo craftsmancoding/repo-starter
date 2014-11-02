@@ -12,6 +12,8 @@ To download this package as the basis for your Repoman project, use composer cre
 
     composer create-project craftsmancoding/repo-starter --stability=dev
         
+    composer create-project craftsmancoding/repo-starter --prefer-dist
+        
 This should pull down the package to your local computer where you may begin altering it.
 
 If you are not familiar with Composer, see the section below on Installing Composer.

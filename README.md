@@ -34,6 +34,18 @@ contents synced up with MODX so you can start developing, you need to use Repoma
 
 You can adjust the paths to the repoman utility or to your package directory according to your environment.
 
+Editing composer.json
+=====================
+
+Update the composer.json file to reference your custom vendor and package name.
+
+Configuring Git
+===============
+
+Once you're ready to start version-controlling your project, you need to tweak a couple things to decouple this starter repo
+from its roots.
+
+------------------
 
 Installing Composer
 ===================

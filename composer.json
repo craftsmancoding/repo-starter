@@ -1,6 +1,6 @@
 {
     "name": "craftsmancoding/repo-starter",
-    "description": "This is a starter repository that uses Repoman conventions for easier MODX Revo development. Update to taste.",
+    "description": "",
     "type": "modx-package",
     "keywords": ["modx","repoman"],
     "homepage": "https://github.com/craftsmancoding/repo-starter",
@@ -26,14 +26,10 @@
         "classmap":["model/"]
     },
     "extra": {
-        "package_name": "Your Package Name here",
+        "package_name": "YourPackage",
         "namespace": "yourpackage",
         "version": "1.0.0",
         "release": "pl",
         "category":"Your Package"
-    },
-    "config": {
-        "preferred-install": "dist"
-    },
-    "minimum-stability": "stable"
+    }
 }

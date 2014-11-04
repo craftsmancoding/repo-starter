@@ -9,9 +9,7 @@ Installation
 ============
 
 To download this package as the basis for your Repoman project, use composer create-project:
-
-    composer create-project craftsmancoding/repo-starter --stability=dev
-        
+    
     composer create-project craftsmancoding/repo-starter --prefer-dist
         
 This should pull down the package to your local computer where you may begin altering it.

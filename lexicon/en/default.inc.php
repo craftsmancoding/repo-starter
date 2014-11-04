@@ -31,8 +31,8 @@
  * @var $modx modX
  * @var $scriptProperties array
  *
- * @package yourpackage
+ * @package goldentemplate
  **/
 
-$_lang['yourpackage'] = 'Your Great Package';
-$_lang['yourpackage_desc'] = 'Menu Subtitle for CMP';
+$_lang['setting_goldentemplate.color'] = 'Custom Color';
+$_lang['setting_goldentemplate.color_desc'] = 'A valid hex code';

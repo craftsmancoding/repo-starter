@@ -20,7 +20,7 @@ switch ($modx->event->name) {
     case 'OnDocFormPrerender':
         // Do something
         break;
-        
+
     case 'OnDocFormSave':
         // Do something
         break;

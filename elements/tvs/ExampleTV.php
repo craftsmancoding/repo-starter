@@ -1,9 +1,9 @@
 <?php
 return array(
     'type' => 'text', // hidden|text|file|etc...
-    'name' => 'ExampleTV',
+    'name' => 'ExampleTV', // <-- this must match the filename EXACTLY (minus .php)
     'caption' => 'Example TV',
-    'description' => 'The TV name must match the file name *exactly* in your Templates (case matters)',
+    'description' => '',
     'editor_type' => 0,
     'display' => '', // default
     'default_text' => '',

@@ -1,5 +1,5 @@
-Changelog for Query
+Changelog for YourPackage
 
-Query 1.0.0
+YourPackage 1.0.0
 ---------------------------------
 Initial Version

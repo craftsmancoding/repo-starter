@@ -7,11 +7,11 @@
 return array(
 
     array(
-        'key'  		=>     'yourpackage.something',
-		'value'		=>     'Sample Value',
+        'key'  		=>     'goldentemplate.color',
+		'value'		=>     'Sample Color',
 		'xtype'		=>     'textfield',
-		'namespace' => 'yourpackage',
-		'area' 		=> 'yourpackage:default'
+		'namespace' => 'goldentemplate',
+		'area' 		=> 'goldentemplate:default'
     ),
 );
 /*EOF*/

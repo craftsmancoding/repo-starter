@@ -1,4 +1,7 @@
 <?php
+/**
+ * You can reference this TV by name in a template "@TVs" parameter
+ */
 return array(
     'type' => 'text', // hidden|text|file|etc...
     'name' => 'ExampleTV', // <-- this must match the filename EXACTLY (minus .php)
